@@ -1,5 +1,3 @@
-print("************Problem 1************")
-
 import turtle
 
 def pascal(n):
